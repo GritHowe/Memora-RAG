@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Memora - AI 智能客服机器人
 
 基于 FastAPI + LangChain + 通义千问 的多轮对话 AI 客服系统，支持知识库 RAG 检索。
@@ -57,3 +58,7 @@ npm run dev
 ## 作者
 
 周世豪 - 2026
+=======
+# Memora-RAG
+基于 FastAPI + LangChain 的 AI 智能客服，支持多轮对话记忆和 RAG 知识库检索增强生成
+>>>>>>> 7f51323040b021a15b39ec29cd03d57fcd23d655

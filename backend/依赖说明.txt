@@ -1,0 +1,24 @@
+# FastAPI 后端
+fastapi>=0.100.0
+uvicorn>=0.23.2
+python-multipart>=0.0.6
+pydantic>=2.0.0
+
+# LangChain 核心（新版 v1+）
+langchain>=0.1.0
+langchain-openai>=0.0.2
+langchain-community>=0.0.10
+langchain-text-splitters>=0.0.1
+
+# 向量库 RAG
+faiss-cpu>=1.7.4
+
+# 数据处理
+pandas>=2.0.0
+python-dotenv>=1.0.0
+
+# 文档加载
+pypdf>=4.0.0
+
+# 阿里云百炼（通义千问 + 阿里云向量模型）
+dashscope>=1.20.0
